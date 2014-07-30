@@ -11,6 +11,6 @@ Crawl csdn blog of mine from start to end.
 
 ##TODO
 When the ip is useless, scrapy will retry with other ip automaticly. However it is a waste of time so much.
-[!useless_ip](https://github.com/younghz/blog-crawler/blob/master/src/useless_ip.png)
+![useless_ip](https://github.com/younghz/blog-crawler/blob/master/src/useless_ip.png)
 So it is **importent** to choice correct proxy ips. But the best method is to capture the err and do sth.
  It is the things to do.
